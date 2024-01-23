@@ -45,3 +45,10 @@ Course link:
 <a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
 <img src='images/Day1.png'>
 </p>
+<h3>Day 2</h3>
+<p>
+ I learned about forward propagation from scratch using python. Learned about Linear Discriminant analysis and bayes classifier.
+Course link:
+<a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
+<img src='images/Day2.png'>
+</p>
