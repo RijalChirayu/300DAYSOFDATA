@@ -52,3 +52,11 @@ Course link:
 <a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
 <img src='images/Day2.png'>
 </p>
+<h3>Day 3</h3>
+<p>
+ Its day 3 and I learned so many things today. I first learned about different classification models.Logistic regression , LDA, QDA , GLM and Naive Bayes. I implemented the code for the models with the help of ISLP book.
+Course link:
+<a href='statlearning.com'>ISLP</a>
+<img src='images/Day3.png'>
+<img src='images/Day3(1).png'>
+</p>
