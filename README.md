@@ -60,3 +60,10 @@ Course link:
 <img src='images/Day3.png'>
 <img src='images/Day3(1).png'>
 </p>
+<h3>Day 4</h3>
+<p>
+ I implemented the code for the KNN Classifier with the help of ISLP book.
+Course link:
+<a href='statlearning.com'>ISLP</a>
+<img src='images/Day4.png'>
+</p>
