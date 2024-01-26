@@ -66,4 +66,10 @@ Course link:
 Course link:
 <a href='statlearning.com'>ISLP</a>
 <img src='images/Day4.png'>
+</p><h3>Day 5</h3>
+<p>
+ I learned about  Backpropagation. Started learning about cross validation method. 
+Course link:
+<a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
+<img src='images/Day5.png'>
 </p>
