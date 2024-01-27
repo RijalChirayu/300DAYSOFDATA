@@ -38,6 +38,7 @@
             <td></td> 
         </tr>
     </table>
+<hr>
 <h3>Day 1</h3>
 <p>
  I learned about neural networks and logistic regression. In the logistic regression I learned to implement the gradient descent algorithm with Regularization. Learned to implement simple neural networks in Tensorflow.
@@ -45,6 +46,7 @@ Course link:
 <a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
 <img src='images/Day1.png'>
 </p>
+<hr>
 <h3>Day 2</h3>
 <p>
  I learned about forward propagation from scratch using python. Learned about Linear Discriminant analysis and bayes classifier.
@@ -60,6 +62,7 @@ Course link:
 <img src='images/Day3.png'>
 <img src='images/Day3(1).png'>
 </p>
+<hr>
 <h3>Day 4</h3>
 <p>
  I implemented the code for the KNN Classifier with the help of ISLP book.
@@ -67,9 +70,20 @@ Course link:
 <a href='statlearning.com'>ISLP</a>
 <img src='images/Day4.png'>
 </p><h3>Day 5</h3>
+<hr>
 <p>
  I learned about  Backpropagation. Started learning about cross validation method. 
 Course link:
 <a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
 <img src='images/Day5.png'>
 </p>
+<hr>
+</p><h3>Day 6</h3>
+<hr>
+<p>
+ I learned about about cross validation method. 
+Course link:
+<a href='statlearning.com'>ISLP</a>
+<img src='images/Day6.png'>
+</p>
+<hr>
