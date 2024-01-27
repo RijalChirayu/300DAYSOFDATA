@@ -54,6 +54,7 @@ Course link:
 <a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
 <img src='images/Day2.png'>
 </p>
+<hr>
 <h3>Day 3</h3>
 <p>
  Its day 3 and I learned so many things today. I first learned about different classification models.Logistic regression , LDA, QDA , GLM and Naive Bayes. I implemented the code for the models with the help of ISLP book.
@@ -69,8 +70,8 @@ Course link:
 Course link:
 <a href='statlearning.com'>ISLP</a>
 <img src='images/Day4.png'>
-</p><h3>Day 5</h3>
 <hr>
+</p><h3>Day 5</h3>
 <p>
  I learned about  Backpropagation. Started learning about cross validation method. 
 Course link:
@@ -79,7 +80,6 @@ Course link:
 </p>
 <hr>
 </p><h3>Day 6</h3>
-<hr>
 <p>
  I learned about about cross validation method. 
 Course link:
