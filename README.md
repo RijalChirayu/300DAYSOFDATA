@@ -87,3 +87,11 @@ Course link:
 <img src='images/Day6.png'>
 </p>
 <hr>
+</p><h3>Day 7</h3>
+<p>
+ I learned about about Bootstraping method in statistics. 
+Course link:
+<a href='statlearning.com'>ISLP</a>
+<img src='images/Day7.png'>
+</p>
+<hr>
