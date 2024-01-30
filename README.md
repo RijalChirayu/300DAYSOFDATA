@@ -95,7 +95,7 @@ Course link:
 <img src='images/Day7.png'>
 </p>
 <hr style='background-color: purple ;'>
-</p><h3>Day 7</h3>
+</p><h3>Day 8</h3>
 <p>
  I learned to implement crossvalidation and Bootstrap with the help of ISLP book. I also learned about Bias-Variance Trade OFF from specialization
 Course link:
@@ -103,5 +103,14 @@ Course link:
 <a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
 <img src='images/Day8.png'>
 <img src='images/Day8(1).png'>
+</p>
+<hr style='background-color: purple ;'>
+</p><h3>Day 9</h3>
+<p>
+ I learned about process of developing a ML project.
+ I also learned about bias and variance in greater sense and its tradeoff with respect to regularization parameter and no. of degrees of a polynomial fit. 
+Course link:
+<a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
+<img src='images/Day9.png'>
 </p>
 <hr style='background-color: purple ;'>
