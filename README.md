@@ -122,3 +122,13 @@ Course link:
 <img src='images/Day10.png'>
 </p>
 <hr style='background-color: purple ;'>
+</p><h3>Day 11</h3>
+<p>
+ I learned about the learning process of the decision tree through recursive splitting and implemented a version of it from scratch to calculate the information gain on each feature. 
+Course link:
+<a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
+<img src='images/Day11(1).png'>
+<img src='images/Day11(2).png'>
+<img src='images/Day11(3).png'>
+</p>
+<hr style='background-color: purple ;'>
