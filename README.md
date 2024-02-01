@@ -114,3 +114,11 @@ Course link:
 <img src='images/Day9.png'>
 </p>
 <hr style='background-color: purple ;'>
+</p><h3>Day 10</h3>
+<p>
+ I learned about decision trees. 
+Course link:
+<a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
+<img src='images/Day10.png'>
+</p>
+<hr style='background-color: purple ;'>
