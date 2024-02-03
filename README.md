@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td>Advance algorithms</td>
-            <td>🏃‍♂️</td>  
+            <td>✅</td>  
             <td><a href='https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1'>Course</a></td> 
         </tr>
         <tr>
