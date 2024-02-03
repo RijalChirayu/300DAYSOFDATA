@@ -132,3 +132,12 @@ Course link:
 <img src='images/Day11(3).png'>
 </p>
 <hr style='background-color: purple ;'>
+</p><h3>Day 12</h3>
+<p>
+ I learned to implement decision trees, random forest and XGBoost using libraries. 
+Course link:
+<a href='https://www.coursera.org/learn/advanced-learning-algorithms'>Machine Learning Specialization</a>
+<img src='images/Day12(1).png'>
+<img src='images/Day12(2).png'>
+</p>
+<hr style='background-color: purple ;'>
