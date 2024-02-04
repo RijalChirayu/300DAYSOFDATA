@@ -141,3 +141,11 @@ Course link:
 <img src='images/Day12(2).png'>
 </p>
 <hr style='background-color: purple ;'>
+</p><h3>Day 13</h3>
+<p>
+ I learned to about KMeans algorith and its implementation for unsupervised learning. 
+Course link:
+<a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Machine Learning Specialization</a>
+<img src='images/Day13.png'>
+</p>
+<hr style='background-color: purple ;'>
