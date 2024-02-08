@@ -157,3 +157,27 @@ Course link:
 <img src='images/Day14.png'>
 </p>
 <hr style='background-color: purple ;'>
+<h3>Day 15</h3>
+<p>
+ I started learning about Reinforcement learning for unsupervised learning. 
+Course link:
+<a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Machine Learning Specialization</a>
+<img src='images/Day15.png'>
+</p>
+<hr style='background-color: purple ;'>
+<h3>Day 16</h3>
+<p>
+ I learned about state-action value function Reinforcement learning for unsupervised learning. 
+Course link:
+<a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Machine Learning Specialization</a>
+<img src='images/Day16.png'>
+</p>
+<hr style='background-color: purple ;'>
+<h3>Day 17</h3>
+<p>
+ I learned about Bellman equation in Reinforcement learning for unsupervised learning. 
+Course link:
+<a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Machine Learning Specialization</a>
+<img src='images/Day17.png'>
+</p>
+<hr style='background-color: purple ;'>
