@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td>Unsupervised learning, Recommenders , Reinforcement Learning</td>
-            <td>🫷</td>  
+            <td>🏃</td>  
             <td><a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Course</a></td> 
         </tr>
         <tr>
