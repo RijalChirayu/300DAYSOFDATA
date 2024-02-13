@@ -189,3 +189,11 @@ Course link:
 <img src='images/Day18.png'>
 </p>
 <hr style='background-color: purple ;'>
+<h3>Day 19</h3>
+<p>
+ I learned about collaborative filtering and mean normalization. Implementation of collaborative filteration in tensorflow. 
+Course link:
+<a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Machine Learning Specialization</a>
+<img src='images/Day19.png'>
+</p>
+<hr style='background-color: purple ;'>
