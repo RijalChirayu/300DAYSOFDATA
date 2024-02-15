@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td>Unsupervised learning, Recommenders , Reinforcement Learning</td>
-            <td>🏃</td>  
+            <td>✅</td>  
             <td><a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Course</a></td> 
         </tr>
         <tr>
@@ -195,5 +195,14 @@ Course link:
 Course link:
 <a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Machine Learning Specialization</a>
 <img src='images/Day19.png'>
+</p>
+<hr style='background-color: purple ;'>
+<h3>Day 20</h3>
+<p>
+ I learned about content-based filtering and its implementation of  in tensorflow. 
+Course link:
+<a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Machine Learning Specialization</a>
+<img src='images/Day20(1).png'>
+<img src='images/Day20(2).png'>
 </p>
 <hr style='background-color: purple ;'>
