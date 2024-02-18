@@ -206,3 +206,25 @@ Course link:
 <img src='images/Day20(2).png'>
 </p>
 <hr style='background-color: purple ;'>
+<h3>Day 21</h3>
+<p>
+ I learned about principal component analysis and its implementation using scikit-learn. 
+Course link:
+<a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Machine Learning Specialization</a>
+<img src='images/Day21.png'>
+</p>
+<hr style='background-color: purple ;'>
+<h3>Day 22</h3>
+<p>
+ Project on titanic survival prediction using Decision Trees with 75% accuracy.  
+Course link:
+<img src='images/Day22.png'>
+</p>
+<hr style='background-color: purple ;'>
+<h3>Day 23</h3>
+<p>
+ Project on titanic survival prediction using RandomForest with 77% accuracy. Will do feature engineering to improve its performance.
+Course link:
+<img src='images/Day23.png'>
+</p>
+<hr style='background-color: purple ;'>
