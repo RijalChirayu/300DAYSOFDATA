@@ -228,3 +228,11 @@ Course link:
 <img src='images/Day23.png'>
 </p>
 <hr style='background-color: purple ;'>
+<h3>Day 24</h3>
+<p>
+Learned about Support Vector Classifier and Maximal marginal classifier.
+Course link:
+<a href="https://statlearning.com">ISLP</a>
+<img src='images/Day24.png'>
+</p>
+<hr style='background-color: purple ;'>
