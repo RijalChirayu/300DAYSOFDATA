@@ -8,19 +8,14 @@
             <th>Source</th>
         </tr>
         <tr>
-            <td>Supervised Machine learning:Regression and Classification</td>
+            <td>Machine Learning Specialization</td>
             <td>✅</td> 
-            <td><a href='https://www.coursera.org/learn/machine-learning/home/week/1'>Course</a></td> 
+            <td><a href='https://www.coursera.org/learn/machine-learning'>Course</a></td> 
         </tr>
         <tr>
-            <td>Advance algorithms</td>
-            <td>✅</td>  
+            <td>Deep Learning Specialization</td>
+            <td>🏃‍♀️</td>  
             <td><a href='https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1'>Course</a></td> 
-        </tr>
-        <tr>
-            <td>Unsupervised learning, Recommenders , Reinforcement Learning</td>
-            <td>✅</td>  
-            <td><a href='https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/home/week/1'>Course</a></td> 
         </tr>
         <tr>
             <td>Introduction to statistical Learning</td>
@@ -38,6 +33,18 @@
             <td></td> 
         </tr>
     </table>
+    <hr>
+<h3>Projects</h3>
+<table>
+    <tr>
+        <th>Project</th>
+        <th>Link</th>
+    </tr>
+    <tr>
+        <td>Titanic Survival Prediction</td>
+        <td></td>
+    </tr>
+</table>
 <hr style='background-color: yellow ;'>
 <h3>Day 1</h3>
 <p>
@@ -234,5 +241,14 @@ Learned about Support Vector Classifier and Maximal marginal classifier.
 Course link:
 <a href="https://statlearning.com">ISLP</a>
 <img src='images/Day24.png'>
+</p>
+<hr style='background-color: purple ;'>
+<h3>Day 25</h3>
+<p>
+I implemented Support Vector Machine with scikit learn. I learned about GridSearchCV technique which helps in finding best parameters. I also learned about ROC curve and plotted it using Scikit learn.
+Course link:
+<a href="https://statlearning.com">ISLP</a>
+<img src='images/Day25.png'>
+<img src='images/Day25(1).png'>
 </p>
 <hr style='background-color: purple ;'>
