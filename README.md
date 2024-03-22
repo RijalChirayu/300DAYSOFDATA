@@ -252,3 +252,19 @@ Course link:
 <img src='images/Day25(1).png'>
 </p>
 <hr style='background-color: purple ;'>
+<h3>Day 26</h3>
+<p>
+I implemented vectorized shallow neural network from scratch.
+Course link:
+<a href="https://www.coursera.org/learn/advanced-learning-algorithms/home/week/1">Deeplearning Specialization</a>
+<img src='images/Day26.png'>
+</p>
+<hr style='background-color: purple ;'>
+<h3>Day 27</h3>
+<p>
+I implemented a neural network in Pytorch for classification
+Course link:
+<a href="learnpytorch.io">Deeplearning Specialization</a>
+<img src='images/Day27.png'>
+</p>
+<hr style='background-color: purple ;'>
